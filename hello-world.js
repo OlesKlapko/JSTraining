@@ -1,4 +1,4 @@
 //hello-world.js
 
 console.log('Hello, World');
-console.log('Rost Mutant');
+console.log('Rost ');
